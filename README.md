@@ -19,3 +19,4 @@ I: Insert
 S: Substitution 
 D: Substitution 
 T: Transposition
+M: Multiple
